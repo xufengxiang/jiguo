@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<script src="./js//doT.min.js"></script>
+<script src="./js//jquery-3.4.1.js"></script>
+
+<body>
+    <link rel="stylesheet" href="./css/15.css">
+    <link rel="stylesheet" href="./css/fg.css">
+    <iframe src="./h2.html" frameborder="0" class="ifm"></iframe>
+    <div class="reportTop">
+        <h1>体验报告</h1>
+    </div>
+    <div class="reportNav">
+        <a href="./14.最新.html"><span class="on">最新</span></span>
+            <a href="./15最热.html"><span class="up">最热</span></a>
+    </div>
+    <div class="reportBox">
+        <div class="reportCenter">
+            <ul id="list">
+
+            </ul>
+            <div class="bottom_bf">
+                <a href="JavaScript:;" class="bottom_btn">点击加载更多</a>
+                <span class="zq"></span>
+                <a href="" class="btn_up">正在加载中</a>
+            </div>
+        </div>
+        <div class="reportRight">
+            <h2>极果体验师</h2>
+            <img src="./img/img/tiyanImg.jpg" alt="">
+            <h5>福利</h5>
+            <p>第一时间体验新品，大众试用优先通过，还有定向邀请试用，新品玩到手软！</p>
+            <h5>要求</h5>
+            <p>是某个领域的大神级玩家，在社交网络或圈子里有大影响力，善写作会拍摄。</p>
+            <h5>申请</h5>
+            <p>
+                1. 关注极果公众号：jguojguo
+                <br>
+                （或扫描下方二维码）
+                <br>
+                2. 在公众号内回复：体验师</p>
+            <h2 class="tx_o">关注我们</h2>
+            <img src="./img/img/myCode.jpg" alt="">
+        </div>
+    </div>
+
+
+    <iframe src="./foot.html" frameborder="0" class="ife"></iframe>
+</body>
+<script id="in_ter" type="text/x-dot-template">
+    {{~it.sj_li:value:index}}
+<li>
+<a href="" >
+<img src="{{=value.img}}" alt="">
+<div class="inText">
+    <p class="in_title">{{=value.tex_title}}</p>
+    <div class="bottomText">
+        <div class="user_left">
+            <span class="user_photo"></span>
+            <span class="user_name">{{=value.tx_name}}</span> 
+            <span class="user_time">{{=value.tx_time}}</span>
+        </div>
+        <div class="user_right">
+            <span class="dz">{{=value.zan_num}}</span>
+            <span class="look_num">{{=value.talk_num}}</span>
+        </div>
+    </div>
+</div>
+</a> 
+</li>
+{{~}}
+
+</script>
+
+<script src="./js/15.js"></script>
+
+</html>

@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li,
+a {
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+
+a {
+    display: block;
+    white-space: nowrap；
+}
+
+p {
+    cursor: pointer;
+}
+
+li {
+    cursor: pointer;
+}
+
+/* 头部 */
+.wrap {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75px;
+    display: flex;
+    position: relative;
+}
+
+.logo {
+    display: inline-block;
+    margin-top: 13px;
+}
+
+header {
+    border: 2px #ccc solid;
+    box-shadow:0 0 5px #cecfcf inset;
+}
+
+
+nav ul li {
+    float: left;
+    font-size: 20px;
+    margin-right: 55px;
+}
+
+nav ul {
+    margin-bottom: 15px;
+    overflow: hidden;
+    margin: 31px 0 0 68px;
+}
+
+.login {
+    width: 50px;
+    height: 30px;
+    border: red 1px solid;
+    color: red;
+    text-align: center;
+    line-height: 30px;
+    position: absolute;
+    top: 20px;
+    right: 0;
+    border-radius: 5px;
+}
+
+.search {
+    position: absolute;
+    top: 25px;
+    right: 90px;
+}
+
+.on {
+    color: rgb(246, 80, 80);
+}
+
+.seek {
+    position: relative;
+    margin: 25px 200px;
+    background-image: #cccc;
+    display: none;
+}
+
+.seek img {
+    width: 24px;
+    height: 26px;
+    position: absolute;
+    left: -40px;
+}
+
+.seek input {
+    width: 400px;
+    background: white;
+    border: 0;
+    line-height: 30px;
+    height: 30px;
+    font-size: 14px;
+}

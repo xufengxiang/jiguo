@@ -1,0 +1,178 @@
+/* 试用流程 */
+.thetrialprocess{
+width: 100%;
+height: 105px;
+background: #F7F7F7;
+display: inline-block;
+}
+.thetrialprocess .process{
+    width: 1000px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.thetrialprocess .process .name{
+    width: 100%;
+    height: 70px;
+    border-left: 5px red solid;
+    margin-top: 20px;
+    overflow: hidden;
+    
+}
+.thetrialprocess .process .name .sylc{
+   font-size: 25px;
+   margin-left: 10px;
+   float: left;
+}
+.thetrialprocess .process .name ul{
+   display: flex;
+   justify-content: space-around;
+
+ }
+ .thetrialprocess .process .name ul li img{
+    vertical-align: middle;
+    margin-left: 10px;
+  }
+  /* 产品介绍 */
+  .productpresentation{
+      width: 100%;
+      /* height: 500px; */
+      background: white;
+  }
+  .productpresentation .product{
+      width: 1000px;
+      height: 100%;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+  }
+  .productpresentation .product .left{
+    width: 700px;
+    height: 2350px;
+}
+.productpresentation .product .left .name{
+   border-left: 5px red solid;
+   height: 45px;
+   margin-top: 45px;
+   
+}
+.productpresentation .product .left .name p{
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 10px;
+    
+ }
+ .productpresentation .product .left .text h3{
+    color: red;
+    margin-top: 30px;
+    
+ }
+ .productpresentation .product .left .text .text_s li{
+     margin-top: 30px;
+     color: black;
+     font-size: 16px;
+ }
+ .productpresentation .product .left .text .text_s li p:nth-of-type(1){
+   color: red;
+   font-weight: 900;
+}
+.productpresentation .product .left .text .text_s li p:nth-of-type(2) span{
+    font-weight: 900;
+ }
+ .productpresentation .product .left .text .text_s .blue{
+   color: #0F6EBD;
+   font-weight: 900;
+}
+.productpresentation .product .left .text .text_s .leftborder{
+    height: 30px;
+    font-size: 20px;
+   border-left: 5px red solid;
+ }
+ .productpresentation .product .left .text .text_s .leftborder span{
+    margin-left: 10px;
+ }
+.productpresentation .product .right{
+    width: 270px;
+    margin-left: 30px;
+
+}
+.productpresentation .product .right ul li{
+    margin-bottom: 5px;
+}
+.productpresentation .product .right ul li:nth-of-type(1){
+    margin-bottom: 20px;
+}
+.productpresentation .product .right ul li:nth-of-type(2){
+    margin-bottom: 20px;
+}
+.productpresentation .product .right ul li:nth-of-type(4){
+    margin-bottom: 15px;
+    text-align: center;
+}
+.productpresentation .product .right ul li:nth-of-type(5){
+    margin-bottom: 20px;
+}
+.productpresentation .product .right ul li:nth-of-type(8) p{
+    margin: 10px 0 10px 0;
+}
+.productpresentation .product .right ul li:nth-of-type(9) p{
+    margin: 10px 0 10px 0;
+}
+.productpresentation .product .right ul li:nth-of-type(10){
+    margin: 70px 0 20px 0;
+}
+.productpresentation .product .right ul .leftborder{
+    height: 30px;
+    border-left: 5px red solid;
+}
+.productpresentation .product .right ul .leftborder span{
+    margin-left: 20px;
+    font-size: 18px;
+    color: black;
+}
+.productpresentation .product .right ul li:nth-of-type(2){
+   font-size: 40px;
+   color: red;
+}
+.productpresentation .product .right ul li:nth-of-type(3) button{
+    width: 260px;
+    height: 45px;
+    border: none;
+    background: red;
+    outline: none;
+    font-size: 16px;
+    color: white;
+ }
+ .productpresentation .product .right ul li p:nth-of-type(1){
+   color: black;
+   font-size: 16px;
+   font-weight: 900;
+ }
+ /* 热门试用 */
+ .carousel .carousel_a{
+     margin-top: 0px;
+ }
+ .carousel .choiceness {
+    width: 1000px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.carousel  .choiceness .title {
+    width: 100%;
+    overflow: hidden;
+}
+
+.carousel  .choiceness .title h3 {
+    float: left;
+}
+
+.carousel .choiceness .title .more {
+    font-size: 14px;
+    color: red;
+    width: 73px;
+    background: url('../img/css/img/readMore.png') no-repeat 60px 5px;
+    float: right;
+}

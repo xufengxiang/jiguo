@@ -1,0 +1,650 @@
+/* 最大图 */
+.maxlogo {
+    overflow: hidden;
+    width: 100%;
+    height: 300px;
+    background: url('../img/css/img/original.jpg') no-repeat -290px 0px;
+}
+
+.maxlogo .immediately {
+    color: white;
+    width: 400px;
+    height: 300px;
+    margin-left: 865px;
+    margin-top: 47px;
+
+}
+
+.maxlogo .immediately h1 {
+    font-weight: 500;
+
+}
+
+.maxlogo .immediately p:nth-of-type(1) {
+    margin-left: 43px;
+}
+
+.maxlogo .immediately p:nth-of-type(2) {
+    margin-left: 41px;
+}
+
+.maxlogo .immediately a {
+    margin-left: 68px;
+    width: 240px;
+    height: 45px;
+    background: red;
+    font-size: 24px;
+    color: white;
+    text-align: center;
+    line-height: 45px;
+}
+
+.maxlogo .immediately p span {
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    background: #F7D29A;
+    margin-left: 15px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.maxlogo .immediately p span:nth-of-type(2) {
+    width: 60px;
+}
+
+.maxlogo .immediately p span:nth-of-type(3) {
+    width: 50px;
+}
+
+.maxlogo .immediately p:nth-of-type(2) {
+    font-size: 18px;
+}
+
+.maxlogo .immediately h1,
+.sq {
+    margin-bottom: 25px;
+}
+
+/* 版心热门试用 轮播图*/
+.carousel {
+    width: 100%;
+    height: 355px;
+    position: relative;
+
+
+}
+
+.carousel .leftarrows {
+    position: absolute;
+    top: 150px;
+    left: 110px;
+}
+
+.carousel .rightarrows {
+    position: absolute;
+    top: 150px;
+    right: 110px;
+}
+
+.carousel_a {
+    width: 1000px;
+    height: 332px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.carousel .carousel_a ul {
+    width: 3100px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+.carousel .carousel_a ul li {
+    width: 220px;
+    height: 290px;
+    border: 1px solid #ccc;
+    float: left;
+    margin-right: 37px;
+    border-radius: 5px;
+    position: relative;
+}
+
+.carousel .carousel_a ul li a .sf {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: red;
+    color: white;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.carousel .carousel_a ul li a .ty {
+    width: 80px;
+    background: #FBF4CB;
+    color: rgb(196, 169, 106);
+}
+
+.carousel .carousel_a ul li a img {
+    vertical-align: top;
+}
+
+.carousel .carousel_a ul li .hot-con {
+    margin-top: 10px;
+}
+
+.carousel .carousel_a ul li .hot-con .name {
+    font-size: 16px;
+    text-align: center;
+}
+
+.carousel .carousel_a ul li .hot-con .tai,
+.dy {
+    text-align: center;
+    margin-left: 14px;
+}
+
+.carousel .carousel_a ul li .hot-con .tai span {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    border: 1px red solid;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 25px;
+    color: red;
+    margin-right: 15px;
+    margin-top: 5px;
+
+}
+
+.carousel .carousel_a ul li .hot-con .dy span {
+    display: inline-block;
+    width: 50px;
+    height: 25px;
+    border: 1px #80C269 solid;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 25px;
+    color: #80C269;
+    margin-right: 15px;
+    margin-top: 5px;
+}
+
+.carousel .carousel_a ul li .hot-con .ck {
+    color: #80C269;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.carousel .carousel_a ul li .hot-con .hq {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.carousel .carousel_a ul li .hot-con .sy,
+.hq span {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* 报告精选 */
+.baogaojingxuan {
+    width: 100%;
+    height: 590px;
+    background: #F7F7F7;
+}
+
+.baogaojingxuan .choiceness {
+    width: 1000px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.baogaojingxuan .choiceness .title {
+    width: 100%;
+    overflow: hidden;
+    padding-top: 20px;
+}
+
+.baogaojingxuan .choiceness .title h3 {
+    float: left;
+}
+
+.baogaojingxuan .choiceness .title .more {
+    font-size: 14px;
+    color: red;
+    width: 73px;
+    background: url('../img/css/img/readMore.png') no-repeat 60px 5px;
+    float: right;
+}
+
+.baogaojingxuan .choiceness #sift {
+    width: 100%;
+    height: 535px;
+    /* overflow: hidden; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* 动态需要的类名 */
+.baogaojingxuan .choiceness #sift .lis {
+    box-shadow: 0px 5px 8px 1px rgb(112, 110, 110);
+    transform: scale(1.1, 1.1);
+}
+
+.baogaojingxuan .choiceness #sift li {
+    width: 220px;
+    height: 230px;
+    border: 1px #ccc solid;
+    background: white;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.baogaojingxuan .choiceness #sift li img {
+    width: 100%;
+    height: 130px;
+}
+
+.baogaojingxuan .choiceness #sift li .info p {
+    color: black;
+    font-size: 14px;
+    margin-left: 13px;
+}
+
+.baogaojingxuan .choiceness #sift li .info .icon .praise .microcheiria {
+    display: inline-block;
+    width: 40px;
+    text-align: right;
+    background: url('../img/css/img/zan.png') no-repeat 17px 3px;
+
+}
+
+.baogaojingxuan .choiceness #sift li .info .icon .praise .message {
+    display: inline-block;
+    width: 30px;
+    text-align: right;
+    background: url('../img/css/img/reply.png') no-repeat 8px 3px;
+
+}
+
+.baogaojingxuan .choiceness #sift li .info .icon {
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.baogaojingxuan .choiceness #sift li .info .icon .susu {
+    float: left;
+    margin-left: 10px;
+}
+
+.baogaojingxuan .choiceness #sift li .info .icon .praise {
+    float: right;
+    margin-right: 10px;
+}
+
+
+/* 导购精选 */
+.shoppersselect {
+    width: 100%;
+    height: 335px;
+}
+
+.shoppersselect .select {
+    width: 1000px;
+    height: 100%;
+    /* border: 1px black solid; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.shoppersselect .select .title {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.shoppersselect .select .title h3 {
+    float: left;
+}
+
+.shoppersselect .select .title .more {
+    font-size: 14px;
+    color: red;
+    width: 73px;
+    background: url('../img/css/img/readMore.png') no-repeat 60px 5px;
+    float: right;
+}
+
+/* 图片叠加部分 */
+
+.shoppersselect .select .select_a {
+    display: flex;
+    justify-content: space-between;
+    /* overflow: hidden; */
+}
+
+.shoppersselect .select .select_a .select_b {
+    position: relative;
+    margin-top: 30px;
+    width: 225px;
+
+}
+
+.shoppersselect .select .select_a .select_b .dg1 {
+    width: 185px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    margin-left: 17px;
+    background: white;
+
+}
+
+.shoppersselect .select .select_a .select_b .dg2 {
+    width: 204px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    position: absolute;
+    top: -5px;
+    left: 8px;
+    background: white;
+}
+
+.shoppersselect .select .select_a .select_b .dg3 {
+    width: 220px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    position: absolute;
+    top: -10px;
+    left: 2px;
+}
+
+.shoppersselect .select .select_a .select_b .dg3 img {
+    vertical-align: top;
+    border-radius: 5px;
+}
+
+.shoppersselect .select .select_a .select_b .dg3 .dg5 {
+    width: 100%;
+    height: 100px;
+    background: white;
+
+}
+
+.shoppersselect .select_a .select_b .dg3 .name {
+    margin-left: 10px;
+    color: black;
+    font-size: 14px;
+
+}
+
+.shoppersselect .select_a .select_b .dg3 .name1 {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+
+.shoppersselect .select_a .select_b .dg3 .name1 .microcheiria {
+    display: inline-block;
+    width: 40px;
+    text-align: right;
+    background: url('../img/css/img/zan.png') no-repeat 17px 3px;
+
+}
+
+.shoppersselect .select_a .select_b .dg3 .name1 .message {
+    display: inline-block;
+    width: 30px;
+    text-align: right;
+    background: url('../img/css/img/reply.png') no-repeat 8px 3px;
+
+}
+
+/* 发现酷玩 */
+.coldplay {
+    width: 100%;
+    background: #F7F7F7;
+}
+
+.coldplay .coldplay_a {
+    width: 1000px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.coldplay .coldplay_a .title {
+    width: 100%;
+    overflow: hidden;
+    padding-top: 20px;
+
+}
+
+.coldplay .coldplay_a .title h3 {
+    float: left;
+}
+
+.coldplay .coldplay_a .title .more {
+    font-size: 14px;
+    color: red;
+    width: 73px;
+    background: url('../img/css/img/readMore.png') no-repeat 60px 5px;
+    float: right;
+}
+
+.coldplay .coldplay_a #kuwan {
+    width: 100%;
+    height: 1040px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* 酷玩动态效果类名 */
+.coldplay .coldplay_a #kuwan .lis {
+    box-shadow: 0px 5px 8px 1px rgb(112, 110, 110);
+    transform: scale(1.1, 1.1);
+}
+
+.coldplay .coldplay_a #kuwan li {
+    width: 220px;
+    height: 230px;
+    border: 1px #ccc solid;
+    background: white;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.coldplay .coldplay_a #kuwan li img {
+    width: 100%;
+    height: 130px;
+}
+
+.coldplay .coldplay_a #kuwan li .info p {
+    color: black;
+    font-size: 14px;
+    margin-left: 13px;
+}
+
+.coldplay .coldplay_a #kuwan li .info .icon .praise .microcheiria {
+    display: inline-block;
+    width: 40px;
+    text-align: right;
+    background: url('../img/css/img/zan.png') no-repeat 17px 3px;
+
+}
+
+.coldplay .coldplay_a #kuwan li .info .icon .praise .message {
+    display: inline-block;
+    width: 30px;
+    text-align: right;
+    background: url('../img/css/img/reply.png') no-repeat 8px 3px;
+
+}
+
+.coldplay .coldplay_a #kuwan li .info .icon {
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.coldplay .coldplay_a #kuwan li .info .icon .price {
+    float: left;
+    margin-left: 10px;
+    color: red;
+}
+
+.coldplay .coldplay_a #kuwan li .info .icon .praise {
+    float: right;
+    margin-right: 10px;
+}
+
+/* 加载更多 */ 
+ .playMore {
+    width: 100%;
+    height: 125px;
+    background: #F7F7F7;
+    display: inline-block;
+    
+
+}
+
+.jiazai {
+    width: 200px;
+    color:#d81e06;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    text-align: center;
+    position: relative;
+   
+}
+.jiazai #xx,#xs{
+    position: absolute;
+    left: 20px;
+    top: -2px;
+}
+.jiazai #xs{
+    display: none;
+}
+/* 返回顶部 */
+.top {
+    width: 50px;
+    height: 50px;
+    border: 1px #ccc solid;
+    border-radius: 5px;
+    background: #ccc;
+    position: fixed;
+    right: 50px;
+    bottom: 10px;
+}
+
+#btn {
+    width: 100%;
+    height: 100%;
+    background: url('../img/css/img/back.png') no-repeat 8px 15px;
+
+}
+/* 加载中图片 */
+.loading{
+    background: #F7F7F7;
+    position: absolute;
+    left: 650px;
+    top: 2827px;
+    display: none;
+    
+    
+}
+/* 加载更多显示内容 */
+.prestrain{
+    width: 100%;
+    background: #F7F7F7;
+    display: none;
+}
+.prestrain .prestrain_a {
+    width: 1000px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.prestrain .prestrain_a #more {
+    width: 100%;
+    height: 1040px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* 酷玩动态效果类名 */
+.prestrain .prestrain_a #more .lis {
+    box-shadow: 0px 5px 8px 1px rgb(112, 110, 110);
+    transform: scale(1.1, 1.1);
+}
+
+.prestrain .prestrain_a #more li {
+    width: 220px;
+    height: 230px;
+    border: 1px #ccc solid;
+    background: white;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+.prestrain .prestrain_a #more li img {
+    width: 100%;
+    height: 130px;
+}
+
+.prestrain .prestrain_a #more li .info p {
+    color: black;
+    font-size: 14px;
+    margin-left: 13px;
+}
+
+.prestrain .prestrain_a #more li .info .icon .praise .microcheiria {
+    display: inline-block;
+    width: 40px;
+    text-align: right;
+    background: url('../img/css/img/zan.png') no-repeat 17px 3px;
+
+}
+
+.prestrain .prestrain_a #more li .info .icon .praise .message {
+    display: inline-block;
+    width: 30px;
+    text-align: right;
+    background: url('../img/css/img/reply.png') no-repeat 8px 3px;
+
+}
+
+.prestrain .prestrain_a #more li .info .icon {
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.prestrain .prestrain_a #more li .info .icon .price {
+    float: left;
+    margin-left: 10px;
+    color: red;
+}
+
+.prestrain .prestrain_a #more li .info .icon .praise {
+    float: right;
+    margin-right: 10px;
+}

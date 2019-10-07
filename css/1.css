@@ -1,0 +1,12 @@
+@keyframes rotateIn{
+	0%{
+		transform:translate(800px,-800px);
+	}
+	100%{
+		transform:translate(0);
+	}
+}
+.immediately{
+    transform:translate(800px,-800px);
+    animation:rotateIn 1s ease both;
+}

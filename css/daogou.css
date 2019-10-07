@@ -1,0 +1,185 @@
+/* 导购精选 */
+.shoppersselect{
+    width: 100%;
+
+}
+.shoppersselect .select{
+    width: 1000px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* 图片叠加部分 */
+.shoppersselect .select .select_a {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:  wrap;
+    overflow: hidden;
+}
+.shoppersselect .select .select_a .select_b{
+    position: relative;
+    margin-top: 30px;
+    width: 225px;
+
+}
+.shoppersselect .select .select_a .select_b .dg1{
+    width: 185px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    margin-left: 17px;
+    background: white;
+    
+}
+.shoppersselect .select .select_a .select_b .dg2{
+    width: 204px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    position: absolute;
+    top: -5px;
+    left: 8px;
+    background: white;
+}
+.shoppersselect .select .select_a .select_b .dg3{
+    width: 220px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    position: absolute;
+    top: -10px;
+    left: 2px;
+}
+.shoppersselect .select .select_a .select_b .dg3 img{
+    vertical-align: top;
+    border-radius: 5px;
+    width: 221px;
+    height: 130px;
+}
+.shoppersselect .select .select_a .select_b .dg3 .dg5{
+    width: 100%;
+    height: 100px;
+    background: white;
+    
+}
+.shoppersselect .select_a .select_b .dg3 .name{
+    margin-left: 10px;
+    color: black;
+    font-size: 14px;
+   
+}
+.shoppersselect .select_a .select_b .dg3 .name1{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.shoppersselect .select_a .select_b .dg3 .dg5 .name1 .microcheiria{
+    display: inline-block;
+    width: 40px;
+    text-align: right;
+    background: url('../img/css/img/zan.png') no-repeat 17px 3px;
+
+}
+.shoppersselect .select_a .select_b .dg3 .dg5 .name1 .message{
+    display: inline-block;
+    width: 30px;
+    text-align: right;
+    background: url('../img/css/img/reply.png') no-repeat 8px 3px;
+
+}
+/* 点击加载更多 */
+.playMore{
+    width: 100%;
+    height: 125px;
+    text-align: center;
+    line-height: 125px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    background: url('../img/css/img/more.png') no-repeat 605px 60px;
+    background-color: #F7F7F7;
+}
+.playMore a{
+    color: red;
+}
+
+/* 导购里面 最热板块代码 */
+.shoppersselect .select .select_c {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:  wrap;
+    overflow: hidden;
+}
+.shoppersselect .select .select_c .select_b{
+    position: relative;
+    margin-top: 30px;
+    width: 225px;
+
+}
+.shoppersselect .select .select_c .select_b .dg1{
+    width: 185px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    margin-left: 17px;
+    background: white;
+    
+}
+.shoppersselect .select .select_c .select_b .dg2{
+    width: 204px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    position: absolute;
+    top: -5px;
+    left: 8px;
+    background: white;
+}
+.shoppersselect .select .select_c .select_b .dg3{
+    width: 220px;
+    height: 230px;
+    border: 2px #ccc solid;
+    border-radius: 5px;
+    position: absolute;
+    top: -10px;
+    left: 2px;
+}
+.shoppersselect .select .select_c .select_b .dg3 img{
+    vertical-align: top;
+    border-radius: 5px;
+    width: 221px;
+    height: 130px;
+}
+.shoppersselect .select .select_c .select_b .dg3 .dg5{
+    width: 100%;
+    height: 100px;
+    background: white;
+    
+}
+.shoppersselect .select_c .select_b .dg3 .name{
+    margin-left: 10px;
+    color: black;
+    font-size: 14px;
+   
+}
+.shoppersselect .select_c .select_b .dg3 .name1{
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+}
+.shoppersselect .select_c .select_b .dg3 .dg5 .name1 .microcheiria{
+    display: inline-block;
+    width: 40px;
+    text-align: right;
+    background: url('../img/css/img/zan.png') no-repeat 17px 3px;
+
+}
+.shoppersselect .select_c .select_b .dg3 .dg5 .name1 .message{
+    display: inline-block;
+    width: 30px;
+    text-align: right;
+    background: url('../img/css/img/reply.png') no-repeat 8px 3px;
+
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<script src="./js//doT.min.js"></script>
+<script src="./js//jquery-3.4.1.js"></script>
+
+<body>
+    <link rel="stylesheet" href="./css/10.css">
+    <iframe src="./h1.html" frameborder="0" class="ifm"></iframe>
+
+    <div class="use_top">
+        <h1>免费试用</h1>
+    </div>
+    <div class="use_nav">
+        <a href="">
+            <span class="on">大众试用</span>
+        </a>
+        <a href="./12.html">
+            <span class="up">体验师专享</span>
+        </a>
+    </div>
+    <div class="use_dh">
+        <a href="./8.html">全部</a>
+        <a href="./9.html">申请中</a>
+        <a href="./10.html" class="on">试用中</a>
+        <a href="./11.html">已结束</a>
+    </div>
+    <div class="use_box">
+        <div class="use_center">
+            <ul id="list"></ul>
+            <div class="bottom_bf">
+                <span class="zq">没有更多啦~</span>
+            </div>
+        </div>
+
+
+
+        <iframe src="./foot.html" frameborder="0" class="ife" id="iframe"></iframe>
+</body>
+<script id="in_ter" type="text/x-dot-template">
+    {{~it.sj_li:value:index}}
+<li>
+    <div class="scroll-cell">
+<div class="img-box">
+    <img src="{{=value.img_url}}" alt="">
+</div>
+<div class="green">
+        {{?value.text_span.ty === "0"}}
+        <span class="li_text"> {{=value.text_span.nam}}</span>
+        {{??value.text_span.ty === "1"}}
+        <span class="li_on"> {{=value.text_span.nam}}</span>
+        {{?}}
+        </div>
+<div class="desc-box">
+    <div class="hover-box">
+        <h4>{{=value.title_text}}</h4>
+        
+        <div class="tag-list">
+                {{~value.num_arr:va:ind}}
+                <span>{{=va}}</span>
+                {{~}}
+        </div>
+        <div class="dw">
+                <div class="sq_num">
+                        <span>{{=value.pe_sum}}</span>申请
+                    </div>
+                    {{?value.oje.type === "1"}}
+                    <div class="in_sum">报告数量: {{=value.oje.num}}</div>
+                    {{??value.oje.type === "2"}}
+                    <div class="in_sum">剩余时间{{=value.oje.num}}天</div>
+                    {{??value.oje.type === "3"}}
+                    <div class="in_sum">查看试用名单</div>
+                    {{?}}
+        </div>
+    </div>
+</div>
+    </div>
+</li>
+{{~}}
+
+</script>
+
+
+<script src="./js/10.js"></script>
+
+</html>

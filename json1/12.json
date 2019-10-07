@@ -1,0 +1,168 @@
+{
+    "sj_li": [{
+            "img_url": "./../img/img/hot1.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            }, 
+            "title_text": "Liquid Image 338 运动摄像眼镜",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "1",
+                "num": "8"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot2.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            }, 
+            "title_text": "巴慕达 The Toaster 烤面包机",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "2",
+                "num": "2"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot3.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            }, 
+            "title_text": "Osprey小鹰户外运动专业腰包",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "3"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot4.jpg",
+            "text_span": {
+               "ty":"1",
+               "nam":"体验师专享"
+            },  
+            "title_text": "Liquid Image 338 运动摄像眼镜",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "2",
+                "num": "2"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot5.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            },  
+            "title_text": "巴慕达 The Toaster 烤面包机",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "1",
+                "num": "8"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot8.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            },  
+            "title_text": "Osprey小鹰户外运动专业腰包",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "3"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot11.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            }, 
+            "title_text": "Liquid Image 338 运动摄像眼镜",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "1",
+                "num": "8"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot2.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            }, 
+            "title_text": "巴慕达 The Toaster 烤面包机",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "2",
+                "num": "2"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot6.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            },  
+            "title_text": "Osprey小鹰户外运动专业腰包",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "3"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot11.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            },  
+            "title_text": "Liquid Image 338 运动摄像眼镜",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "2",
+                "num": "2"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot7.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            }, 
+            "title_text": "巴慕达 The Toaster 烤面包机",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "1",
+                "num": "8"
+            }
+        },
+        {
+            "img_url": "./../img/img/hot10.jpg",
+            "text_span": {
+                "ty":"1",
+                "nam":"体验师专享"
+            },  
+            "title_text": "Liquid Image 338 运动摄像眼镜",
+            "num_arr": ["2302", "20台"],
+            "pe_sum": "1392",
+            "oje": {
+                "type": "2",
+                "num": "2"
+            }
+        }
+    ]
+    }
