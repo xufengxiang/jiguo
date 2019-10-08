@@ -1,6 +1,6 @@
 {
     "sj_li": [{
-            "img_url": "./../img/img/hot7.jpg",
+            "img_url": "./img/img/hot7.jpg",
             "text_span": {
                 "ty":"0",
                 "nam":"首发"
@@ -14,7 +14,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot10.jpg",
+            "img_url": "./img/img/hot10.jpg",
             "text_span": {
                 "ty":"1",
                 "nam":"体验师专享"
@@ -28,7 +28,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot2.jpg",
+            "img_url": "./img/img/hot2.jpg",
             "text_span": {
                 "ty":"0",
                 "nam":"首发"
@@ -41,7 +41,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot9.jpg",
+            "img_url": "./img/img/hot9.jpg",
             "text_span": {
                 "ty":"0",
                 "nam":"首发"
@@ -55,7 +55,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot5.jpg",
+            "img_url": "./img/img/hot5.jpg",
             "text_span": {
                 "ty":"1",
                 "nam":"体验师专享"
@@ -69,7 +69,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot9.jpg",
+            "img_url": "./img/img/hot9.jpg",
             "text_span": {
                 "ty":"1",
                 "nam":"体验师专享"
@@ -82,7 +82,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot11.jpg",
+            "img_url": "./img/img/hot11.jpg",
             "text_span": {
                 "ty":"0",
                 "nam":"首发"
@@ -96,7 +96,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot12.jpg",
+            "img_url": "./img/img/hot12.jpg",
             "text_span": {
                 "ty":"1",
                 "nam":"体验师专享"
@@ -110,7 +110,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot1.jpg",
+            "img_url": "./img/img/hot1.jpg",
             "text_span": {
                 "ty":"1",
                 "nam":"体验师专享"
@@ -123,7 +123,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot2.jpg",
+            "img_url": "./img/img/hot2.jpg",
             "text_span": {
                 "ty":"0",
                 "nam":"首发"
@@ -137,7 +137,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot3.jpg",
+            "img_url": "./img/img/hot3.jpg",
             "text_span": {
                 "ty":"1",
                 "nam":"体验师专享"
@@ -151,7 +151,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot4.jpg",
+            "img_url": "./img/img/hot4.jpg",
             "text_span": {
                 "ty":"0",
                 "nam":"首发"

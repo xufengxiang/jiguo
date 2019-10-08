@@ -1,6 +1,6 @@
 {
     "sj_li": [{
-            "img_url": "./../img/img/hot5.jpg",
+            "img_url": "./img/img/hot5.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -11,7 +11,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot9.jpg",
+            "img_url": "./img/img/hot9.jpg",
             "text_span": "首发",
             "title_text": "Osprey小鹰户外运动专业腰包",
             "num_arr": ["2302", "20台"],
@@ -21,7 +21,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot11.jpg",
+            "img_url": "./img/img/hot11.jpg",
             "text_span": "首发", 
             "title_text": "Liquid Image 338 运动摄像眼镜",
             "num_arr": ["2302", "20台"],
@@ -32,7 +32,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot12.jpg",
+            "img_url": "./img/img/hot12.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -43,7 +43,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot1.jpg",
+            "img_url": "./img/img/hot1.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -54,7 +54,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot6.jpg",
+            "img_url": "./img/img/hot6.jpg",
             "text_span": "首发", 
             "title_text": "Osprey小鹰户外运动专业腰包",
             "num_arr": ["2302", "20台"],
@@ -64,7 +64,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot7.jpg",
+            "img_url": "./img/img/hot7.jpg",
             "text_span":"首发", 
             "title_text": "Liquid Image 338 运动摄像眼镜",
             "num_arr": ["2302", "20台"],
@@ -75,7 +75,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot10.jpg",
+            "img_url": "./img/img/hot10.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -86,7 +86,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot2.jpg",
+            "img_url": "./img/img/hot2.jpg",
             "text_span": "首发", 
             "title_text": "Osprey小鹰户外运动专业腰包",
             "num_arr": ["2302", "20台"],
@@ -96,7 +96,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot9.jpg",
+            "img_url": "./img/img/hot9.jpg",
             "text_span": "首发", 
             "title_text": "Liquid Image 338 运动摄像眼镜",
             "num_arr": ["2302", "20台"],
@@ -107,7 +107,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot12.jpg",
+            "img_url": "./img/img/hot12.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -118,7 +118,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot11.jpg",
+            "img_url": "./img/img/hot11.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -129,7 +129,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot7.jpg",
+            "img_url": "./img/img/hot7.jpg",
             "text_span": "首发", 
             "title_text": "Liquid Image 338 运动摄像眼镜",
             "num_arr": ["2302", "20台"],
@@ -140,7 +140,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot10.jpg",
+            "img_url": "./img/img/hot10.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -151,7 +151,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot2.jpg",
+            "img_url": "./img/img/hot2.jpg",
             "text_span": "首发", 
             "title_text": "Osprey小鹰户外运动专业腰包",
             "num_arr": ["2302", "20台"],
@@ -161,7 +161,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot9.jpg",
+            "img_url": "./img/img/hot9.jpg",
             "text_span":"首发", 
             "title_text": "Liquid Image 338 运动摄像眼镜",
             "num_arr": ["2302", "20台"],
@@ -172,7 +172,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot5.jpg",
+            "img_url": "./img/img/hot5.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
@@ -183,7 +183,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot9.jpg",
+            "img_url": "./img/img/hot9.jpg",
             "text_span": "首发",
             "title_text": "Osprey小鹰户外运动专业腰包",
             "num_arr": ["2302", "20台"],
@@ -193,7 +193,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot11.jpg",
+            "img_url": "./img/img/hot11.jpg",
             "text_span": "首发", 
             "title_text": "Liquid Image 338 运动摄像眼镜",
             "num_arr": ["2302", "20台"],
@@ -204,7 +204,7 @@
             }
         },
         {
-            "img_url": "./../img/img/hot12.jpg",
+            "img_url": "./img/img/hot12.jpg",
             "text_span": "首发", 
             "title_text": "巴慕达 The Toaster 烤面包机",
             "num_arr": ["2302", "20台"],
