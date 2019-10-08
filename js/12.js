@@ -1,5 +1,5 @@
 $.ajax({
-    url: "./../json1/12.json",
+    url: "./json1/12.json",
     success: function (data) {
         console.log(data);
         var in_ = doT.template($("#in_ter").text());

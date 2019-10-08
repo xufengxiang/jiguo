@@ -1,7 +1,7 @@
 $('.bottom_bf .zq').hide();
 $('.bottom_bf .btn_up').hide();
 $.ajax({
-    url: "./../json1/8.json",
+    url: "./json1/8.json",
     success: function (data) {
         console.log(data);
         var in_ = doT.template($("#in_ter").text());

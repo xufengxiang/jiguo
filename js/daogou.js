@@ -1,7 +1,7 @@
 $(function($){
 
     $.ajax({
-        url: "./../JSON/index.json",
+        url: "./JSON/index.json",
         type: "get",
         success(arr) {
             console.log(arr.databases);

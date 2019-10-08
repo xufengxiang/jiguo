@@ -1,7 +1,7 @@
 $(function () {
     // 渲染报告精选内容
     $.ajax({
-        url: "./../JSON/index.json",
+        url: "./JSON/index.json",
         type: "get",
         success(arr) {
             content(arr.data);

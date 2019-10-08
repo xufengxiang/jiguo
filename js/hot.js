@@ -2,7 +2,7 @@ $(function ($) {
 //    渲染酷玩页面，最热
 
     $.ajax({
-        url: "./../JSON/hot.json",
+        url: "./JSON/hot.json",
         type: "get",
         success(arr) {
             console.log(arr.auto);
