@@ -4,7 +4,7 @@ $('.bottom_bf .btn_up').hide();
 var time = null;
 
 $.ajax({
-    url: "./../json1/14.json",
+    url: "./json1/14.json",
     success: function (data) {
         console.log(data);
         var in_ = doT.template($("#in_ter").text());
